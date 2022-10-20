@@ -57,7 +57,7 @@ saturn = Planet("Saturn", 250, 'pink')
 uranus = Planet("Uranus", 290, 'light blue')
 neptune = Planet("Neptune", 320, 'black')
 
-# adding planets to list
+# adding planets to list 
 
 planets_list = [mercury, venus, earth, mars, jupiter, saturn, uranus, neptune]
 
