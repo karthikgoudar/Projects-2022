@@ -18,7 +18,7 @@ import time
 from math import *
 
 screen = turtle.Screen()
-screen.tracer(50)
+screen.tracer(500)
 
 # making sun
 
