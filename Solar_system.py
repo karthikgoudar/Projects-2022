@@ -2,7 +2,7 @@
 CREATING A SOLAR SYSTEM USING TURTLE MODULE
 APPROACH: 1. Import required packages.
           2. Create a screen in which we can place planets.
-          3. Create sun (sun is in center. sngle and radius not required).
+          3. Create sun (sun is in center. angle and radius not required).
           4. Create planet Class.
         4.1. Define name, radius and color function.
         4.2. Define movement in radius and angles (sine and cosine).
